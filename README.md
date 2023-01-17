@@ -22,9 +22,10 @@ Penjelasan mengenai python string :
 • Python tidak mendukung tipe data karakter.
 
 • Untuk mengakses substring, gunakan tanda kurung siku.
+
 Contoh :
 
-input :
+Input :
 
         # Mengakses Nilai dalam String
         var1 = "Hello word!"
@@ -32,13 +33,31 @@ input :
         print("var1[0] : ", var1[0]) # Mengambil Karakter Pertama
         print("var[1:5] : ", var2[1:5]) # Karakter 2 s/d ke-5
 
-output :
+Output :
 
 Output akan mengeluarkan karakter pertama dari var1 dan di var2 akan mengeluarkan karakter 2 s/d 5
 
 ![Foto](Picture/Contoh%201.png)
 
 ### mengupdate string
+
+• Anda dapat “memperbarui” string yang ada dengan (kembali) menugaskan variabel ke string lain.
+
+• Nilai baru dapat dikaitkan dengan nilai sebelumnya atau ke string yang sama sekali berbeda sama sekali.
+
+Contoh :
+
+Input :
+
+        # Mengupdate String
+        message = "Hello Wordl!"
+        print("Update String : - ", message[:6] + "Python")
+
+Output :
+
+Output hanya akan mengambil karakter 1 s/d 6 dan ditambahkan dengan "Python"
+
+![Foto](Picture/Contoh%202.png)
 
 ## Latihan 1
 
