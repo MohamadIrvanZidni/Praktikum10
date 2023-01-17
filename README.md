@@ -6,6 +6,12 @@
 
 ## Kelas : TI.22.A.3
 
+| No | Daftar Isi | Link |
+| -- | ---------- | ---- |
+| 1  | Python String | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum10#python-string) |
+| 2  | Latihan 1 | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum10#latihan-1)  | 
+| 3  | Latihan 2 | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum10#latihan-2) |
+
 ## Python String
 Penjelasan mengenai python string :
 
