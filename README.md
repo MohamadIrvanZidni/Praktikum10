@@ -61,7 +61,7 @@ Output hanya akan mengambil karakter 1 s/d 6 dan ditambahkan dengan "Python"
 
 ## Latihan 1
 
-Penjelasan :
+### Penjelasan
 
 • Untuk menghitung jumlah karakter, gunakan fungsi len()
 
@@ -105,5 +105,11 @@ Di dalam method replace, kita dapat menggunakan 2 cara, yang pertama bisa menggu
         txt = "Hello World"
         # Mengganti karakter H dengan karakter J
         print(txt.replace("H", "J"))
+
+### Output
+
+Output yang dihasilkan adalah
+
+![Foto](Picture/Latihan%201.png)
 
 ## Latihan 2
