@@ -61,4 +61,49 @@ Output hanya akan mengambil karakter 1 s/d 6 dan ditambahkan dengan "Python"
 
 ## Latihan 1
 
+Penjelasan :
+
+• Untuk menghitung jumlah karakter, gunakan fungsi len()
+
+                txt = "Hello World"
+                # Menghitung jumlah karakter
+                print(len(txt))
+
+• Cara mengambil satu karakter pada string yaitu dengan menggunakan kurung siku [ ] dan deklarasi nomor di dalam kurung siku dengan urutan ARRAY dan menggunakan titik dua lalu masukan nomor ARRAY selanjutnya. 
+
+                txt = "Hello World"
+                # Mengambil karakter terakhir
+                print(txt[10])
+
+• Untuk mengambil karakter terakhir, gunakan index [-1]. Sedangkan untuk mengambil karakter index ke-2 sampai ke-4, gunakan index [2:5]
+
+                txt = "Hello World"
+                # Mengambil karakter index ke-2 sampai index ke-4 (llo)
+                print(txt[2:5])
+
+• Jika ingin menghilangkan spasi pada string, gunakan method replace(). Method replace() mengganti semua kemunculan string lama dengan yang baru atau paling banyak kemunculan.
+Di dalam method replace, kita dapat menggunakan 2 cara, yang pertama bisa menggunakan (txt.replace(" ", "")) dan kedua dengan cara (txt.replace(txt[5], ""))
+
+                txt = "Hello World"
+                # Menghilangkan spasi pada text tersebut (HelloWorld)
+                print(txt.replace(" ", ""))
+
+• Untuk mengubah huruf menjadi besar, gunakan method upper()
+
+                txt = "Hello World"
+                # Mengubah text menjadi huruf besar
+                print(txt.upper())
+
+• Untuk mengubah huruf menjadi kecil, gunakan method lower()
+
+                txt = "Hello World"
+                # Mengubah text menjadi huruf kecil
+                print(txt.lower())
+
+• Untuk mengganti karakter 'H' dengan karakter 'J', gunakan method replace()
+
+                txt = "Hello World"
+                # Mengganti karakter H dengan karakter J
+                print(txt.replace("H", "J"))
+
 ## Latihan 2
