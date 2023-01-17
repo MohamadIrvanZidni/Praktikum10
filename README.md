@@ -113,3 +113,18 @@ Output yang dihasilkan adalah
 ![Foto](Picture/Latihan%201.png)
 
 ## Latihan 2
+
+### Penjelasan
+
+Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal {} untuk menempatkan variable sebelumnya
+
+        # Latihan 2
+        umur = 24
+        txt = "Hello, nama saua john, dan umur saya adalah {} tahun"
+        print(txt.format(umur))
+
+### Output
+
+Output yang dihasilkan adalah
+
+![Foto](Picture/Latihan%202.png)
