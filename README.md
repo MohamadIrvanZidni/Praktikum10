@@ -10,13 +10,17 @@
 Penjelasan mengenai python string :
 
 • String adalah jenis yang paling populer di Python.
+
 • Untuk membuatnya hanya dengan melampirkan karakter dalam tanda kutip.
+
 • Python memperlakukan tanda kutip tunggal (' ') sama dengan tanda kutip ganda (" ").
+
 • Membuat string semudah memberi nilai pada sebuah variabel.
 
 ### Mengakses nilai dalam string
 
 • Python tidak mendukung tipe data karakter.
+
 • Untuk mengakses substring, gunakan tanda kurung siku.
 Contoh :
 
