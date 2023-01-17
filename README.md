@@ -34,6 +34,8 @@ input :
 
 output :
 
+Output akan mengeluarkan karakter pertama dari var1 dan di var2 akan mengeluarkan karakter 2 s/d 5
+
 ![Foto](Picture/Contoh%201.png)
 
 ### mengupdate string
